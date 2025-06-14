@@ -1,1 +1,1 @@
-start cmd /k "whoami"
+start cmd /k "cls&color2&whoami"
