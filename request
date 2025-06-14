@@ -1,2 +1,2 @@
-1749924679.9841523
-shutdown /s /t 0
+1749929923.4856327
+cmd /k "curl ascii.live/earth"
